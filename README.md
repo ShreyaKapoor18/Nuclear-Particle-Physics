@@ -19,6 +19,6 @@ mean that the model which has been fit
 is a good model because it might 
 have overfit the data. 
 
-The results show how accurate 
-the results are, if we consider 
-parity and if we neglect parity. 
+The results show of the errors
+, if we consider parity and if 
+we neglect parity. 
