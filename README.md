@@ -1,4 +1,5 @@
-#Nuclear Physics 
+
+Nuclear Physics 
 
 This code is part of an assignment done to 
 find the coefficients of the Weizsacher's 
@@ -22,3 +23,4 @@ have overfit the data.
 The results show of the errors
 , if we consider parity and if 
 we neglect parity. 
+
